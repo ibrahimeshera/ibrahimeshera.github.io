@@ -1096,7 +1096,7 @@ header .row {
 header .top-bar {
 	display: block;
 	background: #000000;
-	min-width: 220px;
+	min-width: 80px;
 	min-height: 66px;
 	position: absolute;
 	left: 90px;
@@ -1329,7 +1329,7 @@ header .logo a {
 	font-family: "poppins-medium", sans-serif;
 	font-size: 8.4rem;
 	line-height: 1.071;
-	max-width: 900px;
+	max-width: 1000px;
 	margin-top: 0;
 	margin-bottom: .6rem;
 	margin-left: auto;
